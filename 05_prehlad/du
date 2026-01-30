@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Domáca úloha</title>
+</head>
+<body>
+
+    <h1 style="color: blue;">Domáca úloha</h1>
+
+    <p><strong>1. Vyplňte tabuľku o vašom PC:</strong></p>
+
+    <table border="1" cellpadding="8">
+        <tr>
+            <th>Vlastnosť</th>
+            <th>Hodnota</th>
+        </tr>
+        <tr>
+            <td>Verzia Windows</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            <td>Edícia (Home/Pro)</td>
+            <td>Home</td>
+        </tr>
+        <tr>
+            <td>Typ účtu</td>
+            <td>Microsoft</td>
+        </tr>
+        <tr>
+            <td>Procesor</td>
+            <td>i3 10 rada</td>
+        </tr>
+    </table>
+
+</body>
+</html>
