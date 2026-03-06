@@ -21,3 +21,18 @@ Akú IP adresu vrátil?  172.217.169.238
 | `ping 127.0.0.1`   | ☑ Odpovedá ☐ Chyba  |
 | `ping 8.8.8.8`     | ☑ Odpovedá ☐ Chyba  |
 | `ping google.com`  | ☑ Odpovedá ☐ Chyba  |
+
+# Ú2: Sieťové nastavenia
+| Údaj          | Aktuálna hodnota     |
+|---------------|----------------------|
+| Typ           | ☐ DHCP ☑ Statická    |
+| IP adresa     | 192.168.56.1 |
+| Maska         | 255.255.255.0 |
+| Brána         | - |
+| DNS           | - |
+
+# Ú2: Regionálne nastavenia
+Anglicka klavesnica- ![alt text](image.png)
+Ipconfig - funguje
+casove pasmo ![alt text](image-2.png)    
+o hodinu 
