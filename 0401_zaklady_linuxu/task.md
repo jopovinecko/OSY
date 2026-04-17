@@ -106,6 +106,7 @@ Otvoril sa rovnaký program ako v 4.1?
 ## Úloha 5 — Čítanie promptu
 
 ### 5.1 Výstupy príkazov
+```
 $ whoami:
 mint
 
